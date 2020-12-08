@@ -1,3 +1,4 @@
 #!/bin/bash
 set -vx
-echo testing2
+echo testing3
+pwd
