@@ -1,6 +1,5 @@
 #!/bin/bash
 set -vx
-echo testing3
+echo testing4
 pwd
-netstat -an | grep LISTEN
-sudo ls
+csrutil status
