@@ -1,4 +1,5 @@
 #!/bin/bash
 set -vx
 echo testing5
-which brew
+brew install tmate
+tmate
